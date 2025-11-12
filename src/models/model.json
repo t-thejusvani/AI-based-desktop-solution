@@ -1,0 +1,7 @@
+{
+  "setup": "1. Install Python from python.org\n2. Create a virtual environment\n3. Activate and install requirements",
+  "deployment": "1. Git init\n2. Commit changes\n3. Push to GitHub\n4. Set up GitHub Actions",
+  "debugging": "1. Enable logging\n2. Check error message\n3. Search docs\n4. Use debugger",
+  "optimization": "1. Profile code\n2. Use efficient structures\n3. Cache/memoize\n4. Parallelize",
+  "contributing": "1. Fork repo\n2. Create feature branch\n3. Commit changes\n4. Open PR"
+}

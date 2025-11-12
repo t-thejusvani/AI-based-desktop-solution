@@ -1,0 +1,11 @@
+PySide6
+numpy
+pandas
+scikit-learn
+yfinance
+pyinstaller
+pytest
+black
+flake8
+python-dotenv
+toml

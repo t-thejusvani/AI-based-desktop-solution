@@ -1,0 +1,12 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ai-desktop-solver"
+version = "0.1.0"
+description = "Desktop AI problem-solving application (PySide6 + scikit-learn)"
+requires-python = ">=3.11"
+
+[tool.black]
+line-length = 88
