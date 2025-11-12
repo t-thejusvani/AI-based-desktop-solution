@@ -26,7 +26,7 @@ git commit -m "Initial commit: AI Desktop Problem Solver"
 
 ```bash
 # Add remote (replace with your repo URL)
-git remote add origin https://github.com/YOUR_USERNAME/ai-desktop-solver.git
+git remote add origin https://github.com/t-thejusvani/AI-based-desktop-solution.git
 
 # Push
 git branch -M main
